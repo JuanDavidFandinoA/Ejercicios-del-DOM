@@ -1,0 +1,14 @@
+El Modelo de objetos del documento o mejor conocido por sus siglas en inglés (DOM) es una interfaz de programación para documentos HTML y XML. Nos permite visualizar las página de manera estructurada, permitiendo que los lenguajes de programación como JavaScript, sus derivados, HTML y otros puedan acceder y manipular el contenido, la estructura y estilo del documento.
+
+El DOM nos presenta el documento en jerarquía de nodos.
+Cada nodo representa una parte del documento:
+*Elementos
+*Atributos
+*Texto
+Entre otros.
+ Un ejemplo aplicado de esto puede ser una página HTML: El documento raíz es el elemento <html>, y por dentro de este se encuentran elementos como <head> y <body> y dentro de estos podremos encontrar otros elementos como <h1> y <p> entre muchos otros.
+
+Wilkins, J. (2021) What is the DOM? Document Object Model Meaning in JavaScript. freeCodeCamp. Estados Unidos. Recuperado de: https://www.freecodecamp.org/espanol/news/que-es-el-dom-el-significado-del-modelo-de-objeto-de-documento-en-javascript/
+
+Román, J. (s. f.) ¿Qué es el DOM?
+Estructura de objetos HTML en un documento web. MANZ.DEV LenguajeJS.com. España. Recuperado de: https://lenguajejs.com/javascript/dom/que-es/
